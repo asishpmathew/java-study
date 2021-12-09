@@ -1,4 +1,4 @@
-package com.example.java8;
+package com.example.java;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
